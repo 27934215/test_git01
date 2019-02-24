@@ -7,12 +7,13 @@ public class TestDebug {
         System.out.println("test-git");
 
         int[] temp={1,2,3,4,5};
-        for(int i=0;i<temp.length;i++){
+        for(int i=0;i<temp.length;i++) {
             System.out.println(temp[i]);
-            if(i==3){
+            if (i == 3) {
                 break;
             }
         }
+        System.out.println("change");
 
     }
 }
