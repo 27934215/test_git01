@@ -14,6 +14,8 @@ public class TestDebug {
             }
         }
         System.out.println("change");
-
+        int a=3;
+        int b=0;
+        String str="branch";
     }
 }
