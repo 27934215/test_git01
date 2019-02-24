@@ -17,5 +17,7 @@ public class TestDebug {
         int a=3;
         int b=0;
         String str="branch";
+        String str="2-1";
+        
     }
 }
